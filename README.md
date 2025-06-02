@@ -202,6 +202,7 @@ The following table lists currently supported countries and their corresponding 
 | Iraq(IQ) - Germany(DE)     | visa_category, visa_sub_category, visa_center               |
 | Morocco(MA) - Italy(IT)    | visa_category, visa_sub_category, visa_center, payment_mode |
 | Azerbaijan(AZ) - Italy(IT) | visa_category, visa_sub_category, visa_center               |
+| Russia(RU) - Austria(AT)   | visa_category, visa_sub_category, visa_center               |
 
 **Notes:**
 
